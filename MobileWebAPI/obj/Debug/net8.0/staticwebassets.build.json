@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AoWbR120VcfWS7mCkjf5nOncTVOMPvksNsRHXaP8v+I=",
+  "Source": "MobileWebAPI",
+  "BasePath": "_content/MobileWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
